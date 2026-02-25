@@ -121,7 +121,7 @@ cl /Od pi_runner.c /Fe:pi_runner.exe /link /SUBSYSTEM:WINDOWS user32.lib gdi32.l
 
 ---
 
-![PI Runner](PI-Runner2.jpg)
+![PI-Runner2](https://github.com/user-attachments/assets/a6da1936-39e4-4b3f-83c6-9e8a77f67534)
 
 ---
 
