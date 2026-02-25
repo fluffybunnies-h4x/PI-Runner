@@ -8,7 +8,6 @@ PI Runner is designed to work with [Jargon](https://github.com/RedSiege/jargon) 
 
 ---
 
-![PI Runner](PI-Runner2.jpg)
 
 ## How It Works
 
@@ -119,6 +118,10 @@ cl /Od pi_runner.c /Fe:pi_runner.exe /link /SUBSYSTEM:WINDOWS user32.lib gdi32.l
 | `pi_runner.c` | Shellcode loader — populate with Jargon output then compile |
 | `jargon.py` | Encodes a raw shellcode `.bin` into a natural language C array |
 | `cats.txt` | Cat-themed word dictionary for Jargon (260 unique words) |
+
+---
+
+![PI Runner](PI-Runner2.jpg)
 
 ---
 
