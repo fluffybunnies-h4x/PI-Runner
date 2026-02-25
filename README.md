@@ -4,7 +4,7 @@
 
 A Windows shellcode loader for authorized penetration tests and red team operations. PI Runner combines natural language payload encoding with computational sandbox evasion to execute shellcode while reducing static and behavioral detection opportunities.
 
-PI Runner is designed to work with [Jargon](https://github.com/RedSiege/jargon) by [Mike Saunders](https://github.com/mdsecactivebreach) of [Red Siege](https://redsiege.com/), which handles encoding raw shellcode as natural language word arrays before it is embedded in the loader.
+PI Runner is designed to work with [Jargon](https://github.com/RedSiege/jargon) by [Mike Saunders](https://redsiege.com/about-us/meet-the-team/) of [Red Siege](https://redsiege.com/), which handles encoding raw shellcode as natural language word arrays before it is embedded in the loader.
 
 ---
 
@@ -127,7 +127,7 @@ cl /Od pi_runner.c /Fe:pi_runner.exe /link /SUBSYSTEM:WINDOWS user32.lib gdi32.l
 
 ## Credits
 
-- **Jargon** — natural language shellcode encoding tool by [Mike Saunders](https://github.com/mdsecactivebreach) / [Red Siege](https://github.com/RedSiege/jargon)
+- **Jargon** — natural language shellcode encoding tool by [Mike Saunders](https://redsiege.com/about-us/meet-the-team/) / [Red Siege](https://github.com/RedSiege/jargon)
 
 ---
 
